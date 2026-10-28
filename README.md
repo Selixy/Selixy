@@ -2,7 +2,7 @@
 
 Je suis TD dev pipe et tools en début de parcours. Je suis en M2 ATI à l'université Paris 8, et je cherche un stage ou une alternance.
 
-Mon travail, c'est de faire des outils qui font gagner du temps aux artistes : des scripts et des addons pour Blender, des liens entre logiciels, des outils pour les jeux et l'animation. Je code surtout en Python, en Rust et en C#.
+Mon objectif est de faire des outils qui font gagner du temps aux artistes : des scripts et des addons pour Blender, des liens entre logiciels, des outils pour les jeux et l'animation. Je code surtout en Python, en Rust et en C#.
 
 ## Pipeline et outils
 
