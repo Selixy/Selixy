@@ -24,6 +24,7 @@ Mon travail, c'est de faire des outils qui font gagner du temps aux artistes : d
 ## Petits outils
 
 - **PromptAnxiety** : des scripts d'appel téléphonique à embranchements, avec un éditeur Vue et un serveur local en Python. [Dépôt](https://github.com/Selixy/PromptAnxiety)
+- **selixy-design** : la bibliothèque CSS d'éléments d'interface que mes projets partagent. CSS pur, sans dépendance ni build. [Dépôt](https://github.com/Selixy/selixy-design)
 
 ## Où me trouver
 
