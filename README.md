@@ -13,12 +13,12 @@ Mon travail, c'est de faire des outils qui font gagner du temps aux artistes : d
 ## Jeux et temps réel
 
 - **DriveForest** : un simulateur de conduite en VR où un téléphone sert de volant. Un jeu Unity et un serveur Rust qui reçoit les données du téléphone en OSC. [Dépôt](https://github.com/Selixy/DriveForest) · [Fiche](https://selixy.dev/driveforest/)
-- **SelixyCARD** : un jeu de cartes type UNO dans le navigateur, sur une table en 3D. Le moteur est écrit en Rust et compilé en wasm. [Fiche](https://selixy.dev/selixy-card/)
+- **SelixyCARD** : un jeu de cartes type UNO dans le navigateur, sur une table en 3D. Le moteur est écrit en Rust et compilé en wasm. [Dépôt](https://github.com/Selixy/SelixyCARD) · [Fiche](https://selixy.dev/selixy-card/)
 - **POV : I got kidnapped by aliens** : un visual novel 2D sous Godot, en conception. [Dépôt](https://github.com/Selixy/pov-i-got-kidnapped-by-aliens)
 
 ## Web et services
 
-- **SelixyWatch** : un site pour regarder des vidéos et écouter de la musique à plusieurs, synchronisés à la seconde. [Fiche](https://selixy.dev/selixy-watch/)
+- **SelixyWatch** : un site pour regarder des vidéos et écouter de la musique à plusieurs, synchronisés à la seconde. [Dépôt](https://github.com/Selixy/SelixyWatch) · [Fiche](https://selixy.dev/selixy-watch/)
 - **SelixyBrain** : mon outil de notes, avec graphe des liens, rétroliens et accès par compte. [Fiche](https://selixy.dev/selixy-brain/)
 
 ## Petits outils
