@@ -2,13 +2,13 @@
 
 Je suis TD dev pipe et tools en début de parcours. Je suis en M2 ATI à l'université Paris 8, et je cherche un stage ou une alternance.
 
-Mon objectif est de faire des outils qui font gagner du temps aux artistes : des scripts et des addons pour Blender, des liens entre logiciels, des outils pour les jeux et l'animation. Je code surtout en Python, en Rust et en C#.
+Mon travail, c'est de faire des outils qui font gagner du temps aux artistes : des scripts et des addons pour Blender, des liens entre logiciels, des outils pour les jeux et l'animation. Je code surtout en Python, en Rust et en C#.
 
 ## Pipeline et outils
 
-- **Miraxy** : un outil de suivi de production pour petite équipe d'animation, base de mon mémoire de M2. Il en est au début. [Fiche](https://selixy.dev/miraxy/)
-- **Limen** : le rig d'un personnage et l'exporteur d'animations Blender vers Unity pour le jeu d'une amie. [Fiche](https://selixy.dev/limen/)
 - **ATI_Instaleur** : un installeur d'applications de création (Blender et autres), piloté par des fichiers YAML, avec une interface PySide6. [Dépôt](https://github.com/Selixy/ATI_Instaleur)
+- **Limen** : le rig d'un personnage et l'exporteur d'animations Blender vers Unity, pour le jeu d'une amie. [Fiche](https://selixy.dev/limen/)
+- **Miraxy** : un outil de suivi de production pour petite équipe d'animation, base de mon mémoire de M2. Il en est au début. [Dépôt](https://github.com/Selixy/Miraxy) · [Fiche](https://selixy.dev/miraxy/)
 
 ## Jeux et temps réel
 
