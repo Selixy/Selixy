@@ -24,7 +24,6 @@ La plupart de mes projets sont dans des dépôts privés. Ce que je peux montrer
 ## Petits outils
 
 - **PromptAnxiety** : des scripts d'appel téléphonique à embranchements, avec un éditeur Vue et un serveur local en Python. [Dépôt](https://github.com/Selixy/PromptAnxiety)
-- **ChatBot** : une application de bureau pour discuter avec plusieurs modèles d'IA, en Python et PySide6. [Dépôt](https://github.com/Selixy/ChatBot)
 
 ## Où me trouver
 
