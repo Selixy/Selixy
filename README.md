@@ -1,6 +1,6 @@
 # Sorën Bouloizeau (Selixy)
 
-Je suis TD pipeline et outils, en début de parcours. Je suis en M2 ATI à l'université Paris 8, et je cherche un stage ou une alternance.
+Je suis TD dev pipe et tools en début de parcours. Je suis en M2 ATI à l'université Paris 8, et je cherche un stage ou une alternance.
 
 Mon travail, c'est de faire des outils qui font gagner du temps aux équipes : des scripts et des addons pour Blender, des liens entre logiciels, des outils pour les jeux et l'animation. J'écris surtout en Python, en Rust et en C#.
 
