@@ -28,4 +28,5 @@ Mon travail, c'est de faire des outils qui font gagner du temps aux artistes : d
 
 ## Où me trouver
 
-- Portfolio : [selixy.dev](https://selixy.dev), avec images et vidéos de chaque projet
+- Portfolio : [selixy.dev](https://selixy.dev)
+
